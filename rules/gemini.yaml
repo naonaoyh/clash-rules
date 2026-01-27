@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com  
   - DOMAIN-SUFFIX,pa.googleapis.com
   - DOMAIN-SUFFIX,clients6.google.com
+  - DOMAIN-SUFFIX,nanojav.com
   - DOMAIN-KEYWORD,gemini
   - DOMAIN-KEYWORD,bard
   - DOMAIN-KEYWORD,notebooklm
@@ -41,3 +42,4 @@ payload:
   - DOMAIN-KEYWORD,alkalicore
   - DOMAIN-KEYWORD,alkalimakersuite
   - DOMAIN-KEYWORD,labs.google
+  
